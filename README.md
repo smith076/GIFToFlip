@@ -7,3 +7,6 @@ Simple editor script to create an animation from a gif file
 4. Wait till assets are created and a gameobject with the gif sequence animation is added to the active scene
 
 This script uses [mgGIF](https://github.com/gwaredd/mgGif). 
+
+## Todo
+1. Add package file for direct import through package manager
