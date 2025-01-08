@@ -1,4 +1,4 @@
-Simple editor script to create an animation from a gif file
+Simple wrapper script for [mgGIF](https://github.com/gwaredd/mgGif)
 
 ## Usage
 1. Add the Editor folder and mgGIF.cs to your project
